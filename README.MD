@@ -21,4 +21,4 @@ Users can click a button to view characters and optionally filter them.
 
 ## 📸 Screenshot
 
-![Screenshot](./assets/ScreenShot.png)
+![Screenshot](./assets/ScreenShoot.png)
